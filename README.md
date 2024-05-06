@@ -1,7 +1,4 @@
 # Demo 
 
-some description for new demo
+This is a new web app
 
-## subheader 
-
-new changes added to repo
